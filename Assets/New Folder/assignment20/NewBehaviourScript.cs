@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace assignment19
+namespace assignment20
 {
     public class NewBehaviourScript : MonoBehaviour
     {
